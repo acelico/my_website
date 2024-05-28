@@ -3,25 +3,44 @@ project:
   output-dir: docs
   
 website:
-  title: "Andrea Celico website"
+  title: "Andrea Celico"
   navbar:
+    navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - href: about_me.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: presentations.qmd
+        text: Presentations
+    right:
       - icon: github
-        href: https://github.com/acelico/my_website
+        href: https://github.com/acelico
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:and.celico@gmail.com
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/andrea-celico/
+        aria-label: LinkedIn
+      - icon: file-pdf
+        href: Add a link to cv
+        aria-label: CV
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Andrea Celico"
+    left: "&copy; Copyright 2024, Andrea Celico"
+
+page-footer: 
+   background: dark
+   left: Copyright 2024, Andrea Celico. 
+   right: Built with [Quarto](https://quarto.org/)
 
 format:
   html:
-    theme: cerulean
-    toc: true
-
-editor: source
+    page-layout: full
+    theme:
+      light: [flatly,light.scss]
+      dark: [darkly,dark.scss]
 

@@ -1,0 +1,16 @@
+---
+title: "Research"
+engine: knitr
+---
+
+Here you find all the references and links to my academic research. 
+
+## Work in progress: 
+---------
+
+### Facing the populists: the effect of populist challengers on mainstream parties’ welfare state positions
+
+*Draft paper available at:* [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4643366)
+
+**Abstract**: This article investigates the effect of populists’ electoral success on European mainstream parties’ positions about the economic dimension and the social inclusiveness of the welfare state. Combining data from party manifestos with a Regression Discontinuity Design, this article finds that a populist party obtaining representation constitutes a supply-side mechanism inducing an adjustment over mainstream parties’ positions, independently from public opinion changes. After competing with a populist party, mainstream parties shift their positions in favor of a smaller and more exclusionary welfare state. In terms of programmatic distances, mainstream parties tend to converge with the populists on both the cultural and economic dimension of the welfare state issue.
+

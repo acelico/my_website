@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Here you find all the references and links to my academic research."
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "##Work in progress:",
+    "text": "##Work in progress:\n\nFacing the populists: the effect of populist challengers on mainstream parties’ welfare state positions\nDraft paper available at: SSRN\nAbstract: This article investigates the effect of populists’ electoral success on European mainstream parties’ positions about the economic dimension and the social inclusiveness of the welfare state. Combining data from party manifestos with a Regression Discontinuity Design, this article finds that a populist party obtaining representation constitutes a supply-side mechanism inducing an adjustment over mainstream parties’ positions, independently from public opinion changes. After competing with a populist party, mainstream parties shift their positions in favor of a smaller and more exclusionary welfare state. In terms of programmatic distances, mainstream parties tend to converge with the populists on both the cultural and economic dimension of the welfare state issue."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Hello and welcome to my website!",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Hello and welcome to my website!\nI’m an applied economist with experience in empirical solutions to socio-economic issues. I am currently a Ph.D. candidate at UNAV (University of Navarre, Spain).\nI’m interested especially interested in how economic and political systems interact with each other and shape the underying mechanisms of the societies we live in. More in general, I believe in the power of empirical evidence and how this can help to find solutions to real-world problems.\nI’m passionate about data analytics, data visualization, and programming.\nThis website contains part of my work as a researcher, teacher, and data scientist. This includes research articles, pieces of code and datasets, presentations, and teaching materials. You can find further materials at my GitHub page."
+  },
+  {
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "Andrea Celico",
+    "section": "",
+    "text": "My academic background is in Economics. I received both my Bachelor’s and Master’s degrees from the University of Rome Tor Vergata (Italy), and a Master of Science in Economics & Finance from the University of Navarre (Spain). In 2020, I began my Ph.D. in Applied Economics, which I am expected to complete in September 2024.\nMy research interests lie broadly in the field of empirical Political Economy. To date, I have focused on two primary issues: 1) The impact of different institutional arrangements on individual behaviors and social norms; 2) Populism, including its causes, measurement, and effects on socio-economic institutions.\nAs an empirical researcher, econometrics, data analysis, and programming have been fundamental components of my Ph.D. journey. Each task in my research agenda involves working with data from various sources. My data “toolkit” includes proficiency in programming languages and software such as R, Python, SQL, and LaTeX.\nOver the past four years, I have had the opportunity to attend several international meetings and conferences, where I presented my work and expanded my network of colleagues within the profession.\nI have held multiple teaching appointments across various subjects. In more quantitative areas, I have taught Linear Algebra, Time Series, and Introduction to Macroeconomics to undergraduate students. Additionally, I have served as the main instructor for an undergraduate course in Comparative Political Systems.\nDespite I don’t mind being coding on a Friday night, I usually prefer a jogging session or a beer with a friend in my free time. 😉\nIf you would like to get in touch, feel free to reach out via email!"
+  },
+  {
+    "objectID": "about_me.html#about-me",
+    "href": "about_me.html#about-me",
+    "title": "Andrea Celico",
+    "section": "",
+    "text": "My academic background is in Economics. I received both my Bachelor’s and Master’s degrees from the University of Rome Tor Vergata (Italy), and a Master of Science in Economics & Finance from the University of Navarre (Spain). In 2020, I began my Ph.D. in Applied Economics, which I am expected to complete in September 2024.\nMy research interests lie broadly in the field of empirical Political Economy. To date, I have focused on two primary issues: 1) The impact of different institutional arrangements on individual behaviors and social norms; 2) Populism, including its causes, measurement, and effects on socio-economic institutions.\nAs an empirical researcher, econometrics, data analysis, and programming have been fundamental components of my Ph.D. journey. Each task in my research agenda involves working with data from various sources. My data “toolkit” includes proficiency in programming languages and software such as R, Python, SQL, and LaTeX.\nOver the past four years, I have had the opportunity to attend several international meetings and conferences, where I presented my work and expanded my network of colleagues within the profession.\nI have held multiple teaching appointments across various subjects. In more quantitative areas, I have taught Linear Algebra, Time Series, and Introduction to Macroeconomics to undergraduate students. Additionally, I have served as the main instructor for an undergraduate course in Comparative Political Systems.\nDespite I don’t mind being coding on a Friday night, I usually prefer a jogging session or a beer with a friend in my free time. 😉\nIf you would like to get in touch, feel free to reach out via email!"
   }
 ]

@@ -1,0 +1,6 @@
+#page-heading .author-image img {
+  width: 600px; /* Adjust width as needed */
+  height: 400px; /* Maintain aspect ratio */
+  float: left; /* Float the image to the left */
+  margin-right: 20px; /* Add some space to the right of the image */
+}

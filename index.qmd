@@ -1,19 +1,35 @@
 ---
-title: "About Me"
+title: ""
+image: img/AC image.jpeg
+engine: knitr
 about:
-  id: me
-  template: broadside
-  image: img/profile.png
+  id: page-heading
+  template: trestles
+  image-shape: rounded
+  image-width: 25em
+  links: 
+    - icon: github
+      text: GitHub
+      href: https://github.com/acelico
+    - icon: envelope
+      text: Email
+      href: mailto:and.celico@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andrea-celico/
+    - icon: file-pdf
+      text: CV
+      href: Aggiungi un link a CV
+
 ---
 
-:::{#me}
 
-## Goals
 
-## Education
+# Hello and welcome to my website!
+I'm an applied economist with experience in empirical solutions to socio-economic issues. I am currently a Ph.D. candidate at [UNAV](https://www.unav.edu) (University of Navarre, Spain).
 
-## Experience
+I'm interested especially interested in how economic and political systems interact with each other and shape the underying mechanisms of the societies we live in. More in general, I believe in the power of empirical evidence and how this can help to find solutions to real-world problems. 
 
-:::
+I'm passionate about data analytics, data visualization, and programming. 
 
-Thanks for checking out my web site!
+This website contains part of my work as a researcher, teacher, and data scientist. This includes research articles, pieces of code and datasets, presentations, and teaching materials. You can find further materials at my [GitHub](https://github.com/acelico) page.
