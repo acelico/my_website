@@ -26,7 +26,7 @@ website:
         href: https://www.linkedin.com/in/andrea-celico/
         aria-label: LinkedIn
       - icon: file-pdf
-        href: https://drive.google.com/file/d/1cLBycNWRy-REK0HWWuEMnbTFUq9rW5De/view?usp=sharing
+        href: https://drive.google.com/file/d/1b4tYCYyWhijTKGp5_z0kAa58YF3AU2pC/view?usp=sharing
         aria-label: CV
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
