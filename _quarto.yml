@@ -14,7 +14,7 @@ website:
       - href: research.qmd
         text: Research
       - href: presentations.qmd
-        text: Presentations
+        text: More...
     right:
       - icon: github
         href: https://github.com/acelico
@@ -26,7 +26,7 @@ website:
         href: https://www.linkedin.com/in/andrea-celico/
         aria-label: LinkedIn
       - icon: file-pdf
-        href: Add a link to cv
+        href: https://drive.google.com/file/d/1cLBycNWRy-REK0HWWuEMnbTFUq9rW5De/view?usp=sharing
         aria-label: CV
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
