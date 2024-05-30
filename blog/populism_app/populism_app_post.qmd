@@ -1,0 +1,26 @@
+---
+title: "ML party populism data"
+subtitle: Shiny application
+description: "Visualization of party populism data."
+categories: [Populism data, Shiny apps]
+author: 
+    - name: A. Celico
+date: 04/02/2024
+date-format: "MMMM YYYY"
+#image: 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+reference-location: margin
+execute:
+    echo: false
+    warning: false
+    error: false
+lightbox: true
+title-block-categories: true
+---
+![5SM celebrate the introduction of the "Reddito di cittadinanza"](dimaio.png)
+
+::: {.column-margin}
+**ML party populism data** (2024). A. Celico *Shinyapps.io*.
+:::
+
+At this [link](https://acelico.shinyapps.io/rfpopi_app/) you will find a dashboard for visualizing and downloading the datase relative to the paper *Will the Real Populists Please Stand Up? A Machine Learning Index of Party Populism* (EJPE,2024).

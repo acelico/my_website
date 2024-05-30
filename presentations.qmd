@@ -1,3 +1,12 @@
 ---
-title: "Presentations"
+title: Further materials
+listing:
+    id: main
+    contents: blog
+    sort: "date desc"
+    categories: true
 ---
+
+----
+
+In this section I post references to additional materials, presentations, and lectures. 

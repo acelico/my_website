@@ -1,0 +1,31 @@
+---
+title: "Causal effect of populist parties on political competition"
+subtitle: "Latex presentation"
+description: "A RDD to investigate parties' response to populists' success"
+categories: [Presentations]
+author: 
+    - name: A. Celico
+date: 05/25/2024
+date-format: "MMMM YYYY"
+#image: 
+draft: false # change status
+reference-location: margin
+execute:
+    echo: false
+    warning: false
+    error: false
+lightbox: true
+title-block-categories: true
+---
+
+<a href="Populist_challengers_Celico.pdf" target="_blank">
+  <img src="slide_RDD.png" alt="Slide RDD" style="width:100%; height:auto;">
+</a>
+
+<a href="Populist_challengers_Celico.pdf" target="_blank" style="text-decoration: none;">
+  <h1>Causal effect of populist parties on political competition</h1>
+</a>
+
+**Latex presentation**
+
+The link above redirects to the slides relative to my paper "*Facing the populists: the effect of populist challengers on mainstream parties' welfare state positions*" presented at the [Research Workshop on Cultures of Trust and Institutions of Freedom (2024)](https://www.ifn.se/en/researchers/ifn-researcher/niclas-berggren/research-workshop-on-cultures-of-trust-and-institutions-of-freedom-2024/).

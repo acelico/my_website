@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="A. Celico">
+<meta name="description" content="Visualization of party populism data.">
 
-<title>Andrea Celico -</title>
+<title>Andrea Celico - ML party populism data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Andrea Celico</span>
     </a>
   </div>
@@ -82,19 +85,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about_me.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../../about_me.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
+    <a class="nav-link" href="../../research.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./presentations.html" rel="" target="">
+    <a class="nav-link" href="../../presentations.html" rel="" target="">
  <span class="menu-text">More…</span></a>
   </li>  
 </ul>
@@ -131,43 +134,65 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="img/AC present_mod.jpeg" class="about-image
-  rounded " style="width: 30em;">
+<main class="content page-columns page-full column-page-left" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">ML party populism data</h1>
+<p class="subtitle lead">Shiny application</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Populism data</div>
+    <div class="quarto-category">Shiny apps</div>
   </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<div class="cell">
-<style type="text/css">
-.justify {
-  text-align: justify !important
-}
-</style>
+  </div>
+
+<div>
+  <div class="description">
+    Visualization of party populism data.
+  </div>
 </div>
-<section id="about-me" class="level2 justify">
-<h2 data-anchor-id="about-me">About me</h2>
-<p>My academic background is in Economics. I received both my Bachelor’s and Master’s degrees from the <a href="https://economia.uniroma2.it">University of Rome Tor Vergata (Italy)</a>, and a Master of Science in Economics &amp; Finance from the <a href="https://www.unav.edu/web/landings/master-en-economia-y-finanzas?utm_medium=cpc&amp;utm_source=google&amp;utm_campaign=feco_mef2425&amp;gad_source=1&amp;gclid=CjwKCAjwgdayBhBQEiwAXhMxtpDVwJDBNrwIUgddyAGQgiTA_hu_deIbJzuWys7hgCi3PRFNJi27LxoCvZ8QAvD_BwE">University of Navarre (Spain)</a>. In 2020, I began my Ph.D.&nbsp;in Applied Economics, which I am expected to complete in September 2024.</p>
-My research interests lie broadly in the field of empirical Political Economy. To date, I have focused on two primary issues:
-<ol>
-<li>
-The impact of different institutional arrangements on individual behaviors and social norms;
-</li>
-<li>
-Populism, including its causes, measurement, and effects on socio-economic institutions.
-</li>
-</ol>
-<p>As an empirical researcher, econometrics, data analysis, and programming have been fundamental components of my Ph.D.&nbsp;journey. Each task in my research agenda involves working with data from various sources. My data “toolkit” includes proficiency in programming languages and software such as R, Python, SQL, and LaTeX.</p>
-<p>Over the past four years, I have had the opportunity to attend several international meetings and conferences, where I presented my work and expanded my network of colleagues within the profession.</p>
-<p>I have held multiple teaching appointments across various subjects. In more quantitative areas, I have taught Linear Algebra, Time Series, and Introduction to Macroeconomics to undergraduate students. Additionally, I have served as the main instructor for an undergraduate course in Comparative Political Systems.</p>
-<p>If you would like to get in touch, feel free to reach out via <a href="mailto:and.celico@gmail.com">email</a>!</p>
-</section>
 
 
-</main></div>
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>A. Celico </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="dimaio.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">5SM celebrate the introduction of the “Reddito di cittadinanza”</figcaption>
+</figure>
 </div>
- <!-- /main -->
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><strong>ML party populism data</strong> (2024). A. Celico <em>Shinyapps.io</em>.</p>
+</div></div><p>At this <a href="https://acelico.shinyapps.io/rfpopi_app/">link</a> you will find a dashboard for visualizing and downloading the datase relative to the paper <em>Will the Real Populists Please Stand Up? A Machine Learning Index of Party Populism</em> (EJPE,2024).</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -303,6 +328,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

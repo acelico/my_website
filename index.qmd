@@ -19,13 +19,20 @@ about:
       href: https://www.linkedin.com/in/andrea-celico/
     - icon: file-pdf
       text: CV
-      href: Aggiungi un link a CV
-
+      href: https://drive.google.com/file/d/1cLBycNWRy-REK0HWWuEMnbTFUq9rW5De/view?usp=sharing
 ---
 
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
 
 
 # Hello and welcome to my website!
+
+::: {.justify}
+
 I'm an applied economist with experience in empirical solutions to socio-economic issues. I am currently a Ph.D. candidate at [UNAV](https://www.unav.edu) (University of Navarre, Spain).
 
 I'm interested especially interested in how economic and political systems interact with each other and shape the underying mechanisms of the societies we live in. More in general, I believe in the power of empirical evidence and how this can help to find solutions to real-world problems. 
@@ -33,3 +40,5 @@ I'm interested especially interested in how economic and political systems inter
 I'm passionate about data analytics, data visualization, and programming. 
 
 This website contains part of my work as a researcher, teacher, and data scientist. This includes research articles, pieces of code and datasets, presentations, and teaching materials. You can find further materials at my [GitHub](https://github.com/acelico) page.
+
+:::

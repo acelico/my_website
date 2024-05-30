@@ -9,14 +9,22 @@ about:
   image-width: 30em
 ---
 
-## About me 
-### About Me
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: justify
+## About me
 
 My academic background is in Economics. I received both my Bachelor's and Master's degrees from the [University of Rome Tor Vergata (Italy)](https://economia.uniroma2.it), and a Master of Science in Economics & Finance from the [University of Navarre (Spain)](https://www.unav.edu/web/landings/master-en-economia-y-finanzas?utm_medium=cpc&utm_source=google&utm_campaign=feco_mef2425&gad_source=1&gclid=CjwKCAjwgdayBhBQEiwAXhMxtpDVwJDBNrwIUgddyAGQgiTA_hu_deIbJzuWys7hgCi3PRFNJi27LxoCvZ8QAvD_BwE). In 2020, I began my Ph.D. in Applied Economics, which I am expected to complete in September 2024.
 
 My research interests lie broadly in the field of empirical Political Economy. To date, I have focused on two primary issues: 
-1) The impact of different institutional arrangements on individual behaviors and social norms; 
-2) Populism, including its causes, measurement, and effects on socio-economic institutions.
+<ol>
+  <li> The impact of different institutional arrangements on individual behaviors and social norms; </li>
+  <li>Populism, including its causes, measurement, and effects on socio-economic institutions.</li>
+</ol>
 
 As an empirical researcher, econometrics, data analysis, and programming have been fundamental components of my Ph.D. journey. Each task in my research agenda involves working with data from various sources. My data "toolkit" includes proficiency in programming languages and software such as R, Python, SQL, and LaTeX.
 
@@ -24,8 +32,5 @@ Over the past four years, I have had the opportunity to attend several internati
 
 I have held multiple teaching appointments across various subjects. In more quantitative areas, I have taught Linear Algebra, Time Series, and Introduction to Macroeconomics to undergraduate students. Additionally, I have served as the main instructor for an undergraduate course in Comparative Political Systems.
 
-Despite I don't mind being coding on a Friday night, I usually prefer a jogging session or a beer with a friend in my free time. &#128521;
-
-If you would like to get in touch, feel free to reach out via [email](mailto:and.celico@gmail.com)! 
-
-
+If you would like to get in touch, feel free to reach out via [email](mailto:and.celico@gmail.com)!
+:::
