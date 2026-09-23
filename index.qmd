@@ -19,7 +19,7 @@ about:
       href: https://www.linkedin.com/in/andrea-celico/
     - icon: file-pdf
       text: CV
-      href: https://drive.google.com/file/d/1o5DraknrsygQRaCr3aaIkZxANtpW5FmH/view
+      href: https://drive.google.com/file/d/1GGwrAfmg46CzXZAR98urYrsmYuT6kh-6/view?usp=sharing
 ---
 
 ```{css, echo = FALSE}
