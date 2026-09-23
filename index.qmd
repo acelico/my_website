@@ -33,12 +33,19 @@ about:
 
 ::: {.justify}
 
-I'm an applied economist with experience in empirical solutions to socio-economic issues. I am currently a Ph.D. candidate at [UNAV](https://www.unav.edu) (University of Navarre, Spain).
+I'm an applied economist with experience in empirical solutions to socio-economic issues. I am currently a Post-Doc at the Universidad Pública de Navarra candidate at [UPNA](https://www.unavarra.es/portada) (Public University of Navarre, Spain). I received my Ph.D. in 2024 from the [University of Navarre (UNAV)](https://www.unav.edu/)). 
 
-I'm interested especially interested in how economic and political systems interact with each other and shape the underying mechanisms of the societies we live in. More in general, I believe in the power of empirical evidence and how this can help to find solutions to real-world problems. 
+My research interests lie broadly in the field of empirical Political Economy. To date, my focus is on: 
+<ol>
+  <li> The impact of different institutional arrangements on individual behaviors and social norms; </li>
+  <li> Populism, including its causes, measurement, and effects on socio-economic institutions;</li>
+  <li> Democratic backsliding and illiberalism within the public administration. </li>
+</ol>
 
-I'm passionate about data analytics, data visualization, and programming. 
+Besides my research, I'm a data analytics, visualization, and programming enthusiast.
 
-This website contains part of my work as a researcher, teacher, and data scientist. This includes research articles, pieces of code and datasets, presentations, and teaching materials. You can find further materials at my [GitHub](https://github.com/acelico) page.
+This website contains part of my work as a researcher, teacher, and data scientist. You can find further materials at my [GitHub](https://github.com/acelico) page.
+
+If you would like to get in touch, feel free to reach out via [email](mailto:and.celico@gmail.com)!
 
 :::
