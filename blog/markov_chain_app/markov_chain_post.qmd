@@ -7,7 +7,7 @@ author:
     - name: A. Celico
 date: 01/013/2024
 date-format: "MMMM YYYY"
-#image: 
+image: humans_zombies.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 reference-location: margin
 execute:
@@ -24,4 +24,4 @@ title-block-categories: true
 **Markov chain example** A. Celico *Shinyapps.io*.
 :::
 
-This [link](https://acelico.shinyapps.io/rfpopi_app/) redirect you to a simple dashboard I realized in Shiny for a nice visualization of the basics of a Markov Chain.  This was used as teaching material in my undergraduate linear algebra lectures.
+This [link](https://acelico.shinyapps.io/humanandzombies/) redirects you to a simple dashboard I realized in Shiny for a nice visualization of the basics of a Markov Chain.  This was used as teaching material in my undergraduate linear algebra lectures.
